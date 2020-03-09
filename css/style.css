@@ -17,7 +17,7 @@ h1 {
     max-width: 786px;
     text-shadow: 1px 1px #00f801, -1px 1px #00f801, 1px -1px #00f801, -1px -1px #00f801;
     letter-spacing: 0.15em;
-    margin-bottom: 1.3em;
+    margin-bottom: 1.6em;
 }
 
 h2 {
@@ -48,6 +48,10 @@ img {
     max-width: 534px;
 }
 
+iframe {
+    opacity: 0.96;
+}
+
 .bg {
     position: fixed;
     width: 100%;
@@ -58,8 +62,8 @@ img {
     width: 100%;
     max-width: 786px;
     height: auto;
-    margin-top: 5em;
-    margin-bottom: 7em;
+    margin-top: 3em;
+    margin-bottom: 8em;
     margin-left: auto;
     margin-right: auto;
     text-align: center;
@@ -75,9 +79,14 @@ img {
     margin-right: auto;
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-evenly;
+    justify-content: space-around;
 }
 
 .item {
     margin-bottom: 1.6em;
+}
+
+.imprint {
+    text-align: center;
+    margin-top: 1.3em;
 }
