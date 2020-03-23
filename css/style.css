@@ -63,7 +63,7 @@ iframe {
     max-width: 786px;
     height: auto;
     margin-top: 3em;
-    margin-bottom: 8em;
+    margin-bottom: 7em;
     margin-left: auto;
     margin-right: auto;
     text-align: center;
@@ -80,6 +80,18 @@ iframe {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
+}
+
+.imprint{
+    position: relative;
+    width: 100%;
+    max-width: 786px;
+    height: auto;
+    margin-top: -2em;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: small;
 }
 
 .item {
