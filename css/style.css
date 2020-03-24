@@ -17,7 +17,7 @@ h1 {
     max-width: 786px;
     text-shadow: 1px 1px #00f801, -1px 1px #00f801, 1px -1px #00f801, -1px -1px #00f801;
     letter-spacing: 0.15em;
-    margin-bottom: 1.6em;
+    margin-bottom: 2em;
 }
 
 h2 {
@@ -57,13 +57,26 @@ iframe {
     width: 100%;
 }
 
+.intro {
+    position: relative;
+    width: 100%;
+    max-width: 786px;
+    height: auto;
+    margin-top: 4em;
+    margin-bottom: 16em;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+
 .box {
     position: relative;
     width: 100%;
     max-width: 786px;
     height: auto;
     margin-top: 3em;
-    margin-bottom: 7em;
+    margin-bottom: 6em;
     margin-left: auto;
     margin-right: auto;
     text-align: center;
@@ -87,7 +100,7 @@ iframe {
     width: 100%;
     max-width: 786px;
     height: auto;
-    margin-top: -2em;
+    margin-top: 0em;
     margin-left: auto;
     margin-right: auto;
     text-align: center;
